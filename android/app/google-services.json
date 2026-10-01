@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942111630111",
+    "project_id": "study-sanctuary-0",
+    "storage_bucket": "study-sanctuary-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942111630111:android:47b733424f004cdd5fc62a",
+        "android_client_info": {
+          "package_name": "com.example.academic_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_UWOcNXtDl8wsgeHWGQdr6jWz7MdIvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
